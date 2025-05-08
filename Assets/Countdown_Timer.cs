@@ -7,7 +7,7 @@ public class Countdown_Timer : MonoBehaviour
 {
 
 private float endgametime; 
-public float numberofminutes= 7f; 
+public float numberofminutes= 12f; 
 private Text timertext;
 
 
